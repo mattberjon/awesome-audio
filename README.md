@@ -7,14 +7,23 @@ First, here are references to works written by people who have been active in
 hearing science (psychoacoustics,anatomy/physiology, physics/acoustics,
 engineering/signal processing, cognitive psychology, audiology). 
 
-- [A brief historical overview of psychoacoustics by Bill Yost][l1]
-- Boring, E. G. (1942). Sensation and Perception in the History of Experimental Psychology.
+### Books
+
 - Plomp, Reinier (2001). Intelligent Ear: On the Nature and Sound Perception.
+  *Psychology Press*. ([link][l3])
+
+### Articles
+
+- Yost, WA. A (2015). A brief historical overview of psychoacoustics.
+  *Acoustic Today*, 11(3), 46-53. ([link][l1])
+- Boring, E. G. (1942). Sensation and Perception in the History of Experimental
+  Psychology. *The American Journal of Psychology*, 57(1), 97-105.
+  DOI: [10.2307/1416868][l2]
+
 F. V. Hunt's Origins of Acoustics (Published in 1992; Originally Published in
     1966). "..covers the history of acoustics from the ancient Greeks till the
 end of the 18th century. " 
- 
-Robert Beyer "Sounds of Our Times.  Two Hundred Years of Acoustics" (published in 1999). "Beyer separated the 20th century development to sub-disciplines, where it could be easier to single out the highlights related only to psychoacoustics, the physiology of the ear, etc."
+- Robert Beyer "Sounds of Our Times.  Two Hundred Years of Acoustics" (published in 1999). "Beyer separated the 20th century development to sub-disciplines, where it could be easier to single out the highlights related only to psychoacoustics, the physiology of the ear, etc."
 
 Diana Deutsch's Psychology and Music (In: M. H. Bornstein (Ed.) Psychology and its Allied Disciplines. Hillsdale: Erlbaum, 1984, 155-194) provides a perspective on the complicated relationship between psychoacoustics and musical theory tracing going back to the Greeks. http://deutsch.ucsd.edu/pdf/Ch-PsychMus.pdf 
 
@@ -59,3 +68,5 @@ Thanks to all who replied: Bill Yost, Dick Lyon, Marcin Wroblewksi, Seth Ayyaz, 
 There is plenty of good reading in these references. Although none seems to provide a comprehensive history of hearing science, especially for the second half of the 20th century up to the present, clearly such history is in the making.
 
 [l1]: http://acousticstoday.org/wp-content/uploads/2015/08/Psychoacoustics-A-Brief-Historical-Overview.pdf 
+[l2]: http://www.jstor.org/stable/1416868 
+[l3]: https://www.amazon.com/Intelligent-Ear-Nature-Sound-Perception/dp/0805838678
