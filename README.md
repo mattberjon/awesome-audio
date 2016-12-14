@@ -39,6 +39,7 @@ engineering/signal processing, cognitive psychology, audiology).
   management.
 - [PyAudio][l7] [Python]: binding of Portaudio in Python.
 - [Playrec][l8] [matlab/octave]: Binding of Portaudio for Matlab and Octave.
+- [LTFAT][l9] [matlab/octave]: toolbox for time-frequency analysis and synthesis.
 
 [l1]: http://acousticstoday.org/wp-content/uploads/2015/08/Psychoacoustics-A-Brief-Historical-Overview.pdf 
 [l2]: http://www.jstor.org/stable/1416868 
@@ -49,3 +50,4 @@ engineering/signal processing, cognitive psychology, audiology).
 [l6]: http://portaudio.com/
 [l7]: https://people.csail.mit.edu/hubert/pyaudio/
 [l8]: http://www.playrec.co.uk/
+[l9]: http://ltfat.github.io/
