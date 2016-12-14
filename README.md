@@ -1,4 +1,5 @@
 # awesome-hearing
+
 A curated list of hearing related subject
 
 ## History of hearing
@@ -11,6 +12,10 @@ engineering/signal processing, cognitive psychology, audiology).
 
 - Plomp, Reinier (2001). Intelligent Ear: On the Nature and Sound Perception.
   *Psychology Press*. ([link][l3])
+- Hunt, Frederik V. (1992). Origins in Acoustics. *Yale University Press*.
+  ([link][l4])
+- Beyer, Robert T. (1999). Sounds of Our Times: Two Hundred Years of Acoustics.
+  *Springer-Verlag New York*. ([link][l5])
 
 ### Articles
 
@@ -20,9 +25,6 @@ engineering/signal processing, cognitive psychology, audiology).
   Psychology. *The American Journal of Psychology*, 57(1), 97-105.
   DOI: [10.2307/1416868][l2]
 
-F. V. Hunt's Origins of Acoustics (Published in 1992; Originally Published in
-    1966). "..covers the history of acoustics from the ancient Greeks till the
-end of the 18th century. " 
 - Robert Beyer "Sounds of Our Times.  Two Hundred Years of Acoustics" (published in 1999). "Beyer separated the 20th century development to sub-disciplines, where it could be easier to single out the highlights related only to psychoacoustics, the physiology of the ear, etc."
 
 Diana Deutsch's Psychology and Music (In: M. H. Bornstein (Ed.) Psychology and its Allied Disciplines. Hillsdale: Erlbaum, 1984, 155-194) provides a perspective on the complicated relationship between psychoacoustics and musical theory tracing going back to the Greeks. http://deutsch.ucsd.edu/pdf/Ch-PsychMus.pdf 
@@ -70,3 +72,5 @@ There is plenty of good reading in these references. Although none seems to prov
 [l1]: http://acousticstoday.org/wp-content/uploads/2015/08/Psychoacoustics-A-Brief-Historical-Overview.pdf 
 [l2]: http://www.jstor.org/stable/1416868 
 [l3]: https://www.amazon.com/Intelligent-Ear-Nature-Sound-Perception/dp/0805838678
+[l4]: https://www.amazon.com/Origins-Acoustics-Science-Antiquity-Newton/dp/0300022204
+[l5]: http://www.springer.com/gp/book/9780387984353
