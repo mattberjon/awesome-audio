@@ -1,6 +1,14 @@
-# awesome-hearing
+# awesome-audio
 
-A curated list of hearing related subject
+This is a curated list of audio related knowledge and tools.
+
+## Contributing
+
+If you want to contribute, you can either:
+
+- clone this repository, make your change and submit a pull request,
+- open an issue,
+- or contact me directly.
 
 ## History of hearing
 
