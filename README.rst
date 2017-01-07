@@ -2,7 +2,7 @@ Awesome Audio
 =============
 
 .. image:: https://readthedocs.org/projects/awesome-audio/badge/?version=latest
-   :target: https://audioquest.readthedocs.io/en/latest/?badge=latest
+   :target: https://awesome-audio.readthedocs.io/en/latest/?badge=latest
    :alt: Documentation Status
 
 
