@@ -13,4 +13,8 @@ audio/hearing related subject.
    :maxdepth: 2
    :caption: Contents:
 
+   readme
    history
+   libraries
+   contributing
+   authors
