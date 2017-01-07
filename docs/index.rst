@@ -18,3 +18,4 @@ audio/hearing related subject.
    libraries
    contributing
    authors
+   changelog
