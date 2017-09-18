@@ -14,7 +14,11 @@ Software and libraries
 `LTFAT`_: **matlab** / **octave**
   toolbox for time-frequency analysis and synthesis.
 
+`Librosa`_: **Python**
+  audio and music processing.
+
 .. _Portaudio: http://portaudio.com/
 .. _PyAudio: https://people.csail.mit.edu/hubert/pyaudio/
 .. _Playrec: http://www.playrec.co.uk/
 .. _LTFAT: http://ltfat.github.io/
+.. _Librosa: https://librosa.github.io/
